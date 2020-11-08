@@ -1,5 +1,5 @@
 {
-    "name": "kbsali/redmine-api",
+    "name": "gary101/redmine-api",
     "type": "library",
     "description": "Redmine API client",
     "homepage": "https://github.com/kbsali/php-redmine-api",
